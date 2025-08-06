@@ -4,6 +4,7 @@ Acá se debe agregar un nombre y un apellido:
 - Santiago Gil
 - Abel Albuez
 - Sara Cardenas
+- ANDERSON ALVARADO
 - Omar Gaston
 - David moreno
 - Mauricio Morales
