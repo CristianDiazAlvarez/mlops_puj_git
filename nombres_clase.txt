@@ -1,2 +1,5 @@
 Acá se debe agregar un nombre y un apellido:
 - Adrian Tellez
+- Cristian Diaz
+- Santiago Gil
+- Abel Albuez
