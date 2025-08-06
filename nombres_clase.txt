@@ -9,6 +9,7 @@ Acá se debe agregar un nombre y un apellido:
 - Omar Gaston
 - David moreno
 - Mauricio Morales
+- David Cordova
 - Germán Ospina
 - Adrian Tellez
 - Camilo Gomez
