@@ -1,5 +1,6 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
+- Daniel Rios
 - Santiago Gil
 - Abel Albuez
 - Omar Gaston
@@ -7,4 +8,3 @@ Acá se debe agregar un nombre y un apellido:
 - Mauricio Morales
 - Adrian Tellez
 - Juan Sebastian r
-
