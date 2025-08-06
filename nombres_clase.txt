@@ -1,5 +1,6 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
+- Juan Camilo Torres
 - Daniel Rios
 - Santiago Gil
 - Abel Albuez
@@ -8,10 +9,16 @@ Acá se debe agregar un nombre y un apellido:
 - Omar Gaston
 - David moreno
 - Mauricio Morales
+- David Cordova
 - Germán Ospina
 - Adrian Tellez
+- Camilo Gomez
 - Adrian Tellez
 - Juan Sebastian r
+<<<<<<< HEAD
 - Juan Sebastian r
 - Jesús Romero
 - Sebastian Rodriguez 
+=======
+- Jesús Romero
+>>>>>>> 781a394e5c1664b9a11bfa7a3a2beb04dd7e106c
