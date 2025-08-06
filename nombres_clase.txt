@@ -9,8 +9,14 @@ Acá se debe agregar un nombre y un apellido:
 - David moreno
 - Mauricio Morales
 
+
 -David Cordova
 
+
+- Germán Ospina
 - Adrian Tellez
+
+- Adrian Tellez
+- Juan Sebastian r
 - Juan Sebastian r
 - Jesús Romero
