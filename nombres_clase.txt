@@ -1,9 +1,9 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
+- Daniel Rios
 - Santiago Gil
 - Abel Albuez
 - Omar Gaston
 - David moreno
 - Mauricio Morales
 - Adrian Tellez
-
