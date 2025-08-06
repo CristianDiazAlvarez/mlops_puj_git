@@ -6,4 +6,5 @@ Acá se debe agregar un nombre y un apellido:
 - David moreno
 - Mauricio Morales
 - Adrian Tellez
+- Juan Sebastian r
 
