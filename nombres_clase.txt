@@ -3,6 +3,7 @@ Acá se debe agregar un nombre y un apellido:
 - Daniel Rios
 - Santiago Gil
 - Abel Albuez
+- Sara Cardenas
 - Omar Gaston
 - David moreno
 - Mauricio Morales
