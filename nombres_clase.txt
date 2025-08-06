@@ -18,9 +18,9 @@ Acá se debe agregar un nombre y un apellido:
 - Camilo Gomez
 - Adrian Tellez
 - Juan Sebastian r
+- Jesús Romero
+- Sebastian Rodriguez 
 - Juan Sebastian r
-- Jesús Romero
 - Miguel Granados C
-- Jesús Romero
 - Juan Peña (Se logro)
 
