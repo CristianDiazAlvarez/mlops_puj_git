@@ -11,3 +11,5 @@ Acá se debe agregar un nombre y un apellido:
 - Adrian Tellez
 - Adrian Tellez
 - Juan Sebastian r
+- Juan Sebastian r
+- Jesús Romero
