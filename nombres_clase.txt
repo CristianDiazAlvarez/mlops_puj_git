@@ -1,3 +1,14 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
+<<<<<<< HEAD
 - Daniel Rios
+=======
+- Santiago Gil
+- Abel Albuez
+- Omar Gaston
+<<<<<<< HEAD
+- David moreno
+=======
+- Mauricio Morales
+>>>>>>> main
+>>>>>>> e1f158cc55e35767ae89129c4a74add8b26d3081
