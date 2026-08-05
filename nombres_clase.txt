@@ -1,13 +1,14 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
 - Andrea García
+- Cristian organista
 - Kevin Bueno
 - Juliana Rueda
 - Dierick Brochero
--Laura Sofia Rodriguez Perez
+- Laura Sofia Rodriguez Perez
 - Sebastian Acosta
 - Joshua Valero
-- Juliana Rueda
 - Moises
 - Juan Clavijo
 - Cristhian Sebastian Bolaños Portilla
+- Daniel Nino Manchego
