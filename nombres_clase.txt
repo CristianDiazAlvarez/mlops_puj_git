@@ -3,5 +3,6 @@ Acá se debe agregar un nombre y un apellido:
 - Sebastian Acosta
 - Joshua Valero
 - Juliana Rueda
-Moises
-Juan Clavijo
+- Moises
+- Juan Clavijo
+- Cristhian Sebastian Bolaños Portilla
