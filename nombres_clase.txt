@@ -1,3 +1,5 @@
 Acá se debe agregar un nombre y un apellido:
 - Cristian Diaz
 - Joshua Valero
+- Juliana Rueda
+Moises
